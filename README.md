@@ -22,5 +22,5 @@ The project structure is organized as follows:
 
 ## Usage
 
-Place your dataset file (`data.csv`) in the project directory.
+Place your dataset file `data.csv` in the project directory.
 Run the modules.
